@@ -9,9 +9,13 @@ Infinite Scroller tutorials for my _Mondev_ series on LinkedIn.
 
 ## Tutorials
 
-**Simple version:** https://www.linkedin.com/pulse/mondev-1-infinite-scrolling-background-unityc-60-code-tim-samoff-mfa-53cbc/
+**Simple version**
 
-**Advanced version:**  _Coming soon!_
+https://www.linkedin.com/pulse/mondev-1-infinite-scrolling-background-unityc-60-code-tim-samoff-mfa-53cbc/
+
+**Advanced version**
+
+_Coming soon!_
 
 ## License
 
