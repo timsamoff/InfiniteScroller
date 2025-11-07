@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class InfiniteScroller : MonoBehaviour
+public class InfiniteScrollerSIMPLE : MonoBehaviour
 {
     [SerializeField] private GameObject tilePrefab;
     [SerializeField] private float scrollSpeed = 5f;

@@ -369,7 +369,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 236479727beb5ec4bb4ca1a371b43c0f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InfiniteScroller
-  tilePrefab: {fileID: 9006762346819471536, guid: ff3f9c72e83f84746b7c8e6e2c7a86dd, type: 3}
+  direction: 2
+  tilePrefabs:
+  - {fileID: 7129048317007558568, guid: f753b1a15218f0a4ab96b811025f9142, type: 3}
+  - {fileID: 1191261513664891346, guid: 4e1426b02f9862f48a1d0f09e9743959, type: 3}
+  - {fileID: 3817560021647083804, guid: 15ae05c283a9011428a469aeb00ba708, type: 3}
+  - {fileID: 6431770725623493917, guid: e5b8637e36ea231459ed593e1c26398c, type: 3}
+  - {fileID: 4786794153286846618, guid: 762656b9834c0464fb892cd24466a392, type: 3}
+  - {fileID: 8697171373050907427, guid: 92921111fc4e3f944b8f1d552955e27b, type: 3}
   scrollSpeed: 5
 --- !u!4 &652022828
 Transform:
