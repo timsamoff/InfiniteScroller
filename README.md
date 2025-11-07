@@ -4,7 +4,7 @@
 
 ## About
 
-Infinite Scroller tutorials for Mondev on LinkedIn.
+Infinite Scroller tutorials for my _Mondev_ series on LinkedIn.
 
 
 ## Tutorials
